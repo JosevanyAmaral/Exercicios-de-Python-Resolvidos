@@ -1,0 +1,8 @@
+fullname = str(input('Digite o seu nome completo:')).strip()
+print('Analisando o seu nome...')
+print('Seu nome em maiúsculas é {}'.format(fullname.lower()))
+print('Seu nome em minúsculas é {}'.format(fullname.upper()))
+print('Ao todo, o seu nome tem {} letras'.format(len(fullname) - fullname.count(' ')))
+dividido = fullname.split()
+#print('Seu primeiro nome tem {} letras'.format(fullname.count(' ')))
+print('O primeiro nome é {} e tem {} letras'.format(dividido[0], len(dividido[0])))
