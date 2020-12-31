@@ -1,2 +1,2 @@
-# Exercicios-de-Python-Resolvidos
- Todos os exercícios do curso de Python do Curso em Vídeo resolvidos por mim.
+# Exercicios de Python Resolvidos
+ Todos os exercícios do **Curso de Python** do *Curso em Vídeo* resolvidos por mim.
